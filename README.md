@@ -7,8 +7,18 @@
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
  
  ## ```Donate Me```
+  ## ```EVERY CENT DONATED MEANS A LOT TO US```
 
-- [`Paypal`](https://www.paypal.me/zimbotinc)
+- [`BITCOIN`](3Dd5amQy7G48bRJX81Sbf2oAcagVt7Honm)/n
+[`ETHEREUM`](0x332F24c6d1F92D12ed8Bcb530A8b412d7d20BCF7)/n
+[`USDT`](0x33Ee432152196a8FC0F1f76fA21F5Ce0fE97eBb5)/n
+
+
+
+
+
+
+
  </a>
 </p>
 <p align="center">
@@ -36,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > THIS BOT CODED BY TRADER_NYAMA
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
@@ -70,12 +80,12 @@ echo scan the qr code and enjoy bot
 
 ## JOIN MY WHATSAPP GROUP
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LNt5CMHQmvBJKX4VjKQv9V)
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263784675236)
 
 
-# > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING BOT_NYAMA WE APPRECIATE YOU FOR YOUR SUPPORT
  
